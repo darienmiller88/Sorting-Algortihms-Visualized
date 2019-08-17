@@ -3,5 +3,5 @@ This project will use a visual representation using the c++ graphics library SFM
 
 ## Setup
 ### Installation
-- An SMFL compatible C++ IDE, preferably [Code::Blocks](http://www.codeblocks.org/downloads) or [Microsoft Visual Studio] (https://visualstudio.microsoft.com/downloads/)
+- An SMFL compatible C++ IDE, preferably [Code::Blocks](http://www.codeblocks.org/downloads) or [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
 - 
