@@ -1,1 +1,2 @@
 SFML==2.5.1
+Code::Blocks==17.12
