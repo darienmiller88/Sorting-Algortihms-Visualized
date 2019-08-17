@@ -4,4 +4,5 @@ This project will use a visual representation using the c++ graphics library SFM
 ## Setup
 ### Installation
 - An SMFL compatible C++ IDE, preferably [Code::Blocks](http://www.codeblocks.org/downloads) or [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
-- 
+- C++14 (must be enabled through either above IDE)
+- cget ('pip install cget')
